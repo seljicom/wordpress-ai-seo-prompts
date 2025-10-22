@@ -42,6 +42,21 @@ This repository provides a proven system of **AI prompts** and **workflow guides
 
 ---
 
+## 🧭 Proof of Concept: Selji.com
+
+[Selji.com](https://selji.com) was built using many of the **prompts, workflows, and SEO strategies** shared in this repository.  
+It serves as a **live proof of concept** — showing how AI-assisted content creation, when combined with **human research, product analysis, and editorial care**, can produce genuinely valuable, trustworthy, and engaging blog content.
+
+Every article on Selji.com is crafted with a balance of:
+- 🔍 **Manual fact-checking and data verification**  
+- 🧠 **AI-assisted ideation and optimization**  
+- 🪶 **Human editing for tone, accuracy, and reader experience**
+
+The result is a modern example of how AI can empower content creators without replacing authenticity or depth.  
+Selji.com continues to grow through consistent experimentation, ethical SEO, and an emphasis on **useful, research-backed insights** rather than automation for its own sake.
+
+---
+
 ## 🧩 Example Prompt
 
 ```text
