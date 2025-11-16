@@ -1,3 +1,7 @@
+> **SELJI Prompt Library**  
+> Practical prompts and ideas used across our research and automation workflows.  
+> https://selji.com
+
 ### Prompt 1: Generate an SEO-Optimized Blog Title
 Create a **clickable, keyword-rich blog post title** for a WordPress article on [TOPIC]. Ensure the primary keyword appears at the beginning, limit the title to 60 characters for optimal Google display, and make it engaging to attract readers. Include optional emotional or power words to improve CTR without being spammy.
 
