@@ -1,3 +1,9 @@
+# 🧰 **SELJI Tools**  
+### Data-Driven Utilities Supporting SELJI.com Research Workflows  
+https://selji.com
+
+---
+
 # 🧠 WordPress AI SEO Prompts
 
 A complete collection of **AI-powered prompts** and **SEO workflows** for writing, optimizing, and publishing **high-quality WordPress blog posts**.  
