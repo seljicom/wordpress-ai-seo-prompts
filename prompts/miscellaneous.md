@@ -1,3 +1,7 @@
+> **SELJI Prompt Library**  
+> Practical prompts and ideas used across our research and automation workflows.  
+> https://selji.com
+
 # **1️⃣ Affiliate & Monetization Prompts**
 
 ### Prompt 1: Generate a Compliant Affiliate Disclaimer
